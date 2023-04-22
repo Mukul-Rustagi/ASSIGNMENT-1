@@ -1,0 +1,96 @@
+.text-red{
+    color:lightgoldenrodyellow;
+    margin-top:50px;
+}
+.text-blue{
+   color:burlywood;
+   margin-top: 100px;
+
+}
+ label{
+    text-transform: capitalize;
+    color:rgb(141, 85, 11);
+    font-weight: bold;
+    display:inline-block;
+    text-align: right;
+ }
+
+ button{
+    background-color: bisque;
+    color:rgb(196, 52, 177)
+ }
+ .input-container{
+    padding:9px;
+    background-color:rgb(41, 241, 231);
+ }
+
+ .output-container{
+    padding:9px;
+    background-color:rgba(53, 233, 197, 0.893);
+ }
+  
+ .Dob-container{
+   padding:9px;
+   background-color: aquamarine;
+ }
+
+ .chh-container{
+    padding: 9px;
+    background-color: aquamarine;
+ }
+ .heading-container{
+    padding:9px;
+    border:8px solid rgb(42, 235, 222);
+    display:inline;
+    border-radius:12px;
+    background-color: rgb(48, 169, 225);
+ }
+  .butttton-container{
+    border:8px;
+    padding:9px;
+    background-color:bisque;
+    border-radius: 18px;
+    width:300px;
+    height:50px;
+    cursor: pointer;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 6%, rgba(45,81,253,1) 100%);
+  }
+  #name,#class,#admission,#BRANCH{
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    height:50px;
+    border-color:#333;
+    background: rgb(131,58,180);
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 6%, rgba(158,253,45,1) 100%);
+  }
+   body{
+      background-color:blanchedalmond;
+      background-image: url("https://wallpapers.com/images/featured/wdan69t9mhfvfwqx.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position :"center";
+    border-top-left-radius: 25px;
+   }
+   .container {
+      max-width: 800px;
+      margin: 120px auto;
+      padding: 20px;
+      box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+      text-align: center;
+      border-color: #f51c1c;
+      border-top-right-radius: 200px;
+      border-bottom-left-radius: 200px;
+      background-image: url("https://www.desktopbackground.org/download/o/2015/12/06/1053466_abstract-art-colorful-colors-design-illustration-light-theme_1920x1080_h.jpg");
+      background-size: 150%;
+      background-repeat: no-repeat;
+   }
+
+   input[type="text"]{
+      text-align: center;
+   }
+
+   input[type="tel"]{
+      text-align: center;
+   }
